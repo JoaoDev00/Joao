@@ -1,0 +1,20 @@
+style.css
+/* Utilizando nome das cores */
+a{
+    color:coral;
+    background-color: blue;
+} 
+
+a{
+    color: #FFFFFF;
+    background-color: #000000;
+} 
+
+a{
+    color: rgba(0, 0, 0, 0);
+    background-color: #d7c8c8;
+}
+
+body{
+     
+}
